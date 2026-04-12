@@ -1,0 +1,5 @@
+Source Class,Predicted Corn (ha),Predicted Soy (ha),Mean Confidence
+Regular Rotation,"5,453,622","5,651,793",0.901
+Monoculture,"1,872,432","2,452,671",0.857
+Irregular,"799,407","393,354",0.400
+Total,"8,125,461","8,497,818",0.856
