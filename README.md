@@ -1,5 +1,7 @@
 # Cropora - Field Intelligence Platform
 
+Streamlit Deployment Link: https://cropora-field-intelligence-faepehbnofpmzqvwv633sq.streamlit.app/
+
 Cropora is a geospatial field intelligence platform built on eleven years of public satellite data over Iowa cropland. It combines crop phenology analysis, rotation classification, soil moisture anomaly detection, and machine learning to produce a 2024 crop type projection and a composite Field Resilience Score for every cropland pixel in Iowa.
 
 ---
