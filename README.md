@@ -2,8 +2,6 @@
 
 Cropora is a geospatial field intelligence platform built on eleven years of public satellite data over Iowa cropland. It combines crop phenology analysis, rotation classification, soil moisture anomaly detection, and machine learning to produce a 2024 crop type projection and a composite Field Resilience Score for every cropland pixel in Iowa.
 
-Built for Bitcamp 2025.
-
 ---
 
 ## What it does
@@ -157,13 +155,3 @@ All output images and CSVs must be in the same folder as app.py.
 - The 2024 projection assumes rotation behavior is stationary. Market shocks or extreme weather could cause fields to deviate from historical patterns.
 
 ---
-
-## AI Disclaimer
-
-Portions of the code in these notebooks were developed with AI assistance (Claude by Anthropic). All analysis, interpretation, and validation were performed by the author.
-
----
-
-## License
-
-MIT
