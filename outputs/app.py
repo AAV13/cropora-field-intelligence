@@ -138,7 +138,6 @@ html, body, [class*="css"] { font-family: 'DM Sans', sans-serif; }
 # ── HERO ──────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero-banner">
-    <div class="hero-tag">Bitcamp 2025</div>
     <div class="hero-title">Cropora<br><span>Field Intelligence Platform</span></div>
     <div class="hero-sub">
         11 years of satellite crop data. Two ML models. A confidence-scored 2024 projection
@@ -670,7 +669,6 @@ st.markdown("<br><br>", unsafe_allow_html=True)
 st.markdown("""
 <div style="text-align:center;padding:24px;color:#6B5E4E;font-size:13px;border-top:1px solid #E2DDD5;">
     <strong style="color:#2C1A0E;">Cropora - Field Intelligence Platform</strong><br>
-    Bitcamp 2025<br>
     Data: NASA AppEEARS (MODIS MOD13Q1) - USDA NASS CropScape - NASA SMAP L4
 </div>
 """, unsafe_allow_html=True)
